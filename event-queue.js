@@ -8,12 +8,7 @@
 "use strict";
 
 function Jetpack(require, exports) {
-  var timers = require('addon-kit/timers')
-  exports.setTimeout = timers.setTimeout
-  exports.setInterval = timers.setInterval
-  exports.clearTimeout = timers.clearTimeout
-  exports.clearInterval = timers.clearInterval
-  exports.enqueue = function enqueue(task) { timers.setTimeout(task, 0) }
+  throw "Jetpack not supported";
 }
 
 function NodeJS(require, exports) {
