@@ -1,14 +1,14 @@
 {
-  "name": "event-queue",
-  "id": "event-queue",
+  "name": "event-queue-nojetpack",
+  "id": "event-queue-nojetpack",
   "version": "0.2.0",
-  "description": "CommonJS Reactor/A for nodejs, browser and jetpack",
+  "description": "CommonJS Reactor/A for nodejs and browser only",
   "homepage": "http://wiki.commonjs.org/wiki/Reactor/A",
   "keywords": ["node", "commonjs", "reactor", "event-queue", "enqueue"],
   "author": "Irakli Gozalishvili <rfobic@gmail.com> (http://jeditoolkit.com)",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Gozala/reactor-commonjs.git"
+    "url": "git://github.com/tehsenaus/reactor-commonjs.git"
   },
   "bugs": { "url": "http://github.com/Gozala/reactor-commonjs/issues/" },
   "main": "./event-queue.js",
