@@ -1,6 +1,6 @@
 {
-  "name": "event-queue-nojetpack",
-  "id": "event-queue-nojetpack",
+  "name": "event-queue",
+  "id": "event-queue",
   "version": "0.2.0",
   "description": "CommonJS Reactor/A for nodejs and browser only",
   "homepage": "http://wiki.commonjs.org/wiki/Reactor/A",
